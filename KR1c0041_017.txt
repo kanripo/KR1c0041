@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經世本古義
-#+DATE: 2015-09-23 09:36:57
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:05:59.267617
+#+PROPERTY: ID KR1c0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1c0041_WYG_017-1a>¶
 欽定四庫全書¶
 　詩經世本古義卷十七¶
@@ -2756,4 +2758,3 @@
 　　(朁二句言理之無定在而樹檀二段則以愛當知/惡憎當知善為言夫然則固知人之事也胡前四)¶
 　　(句之不相蒙耶/申培說闕文)¶
 　詩經世本古義卷十七¶
-

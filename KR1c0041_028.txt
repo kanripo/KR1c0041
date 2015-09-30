@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經世本古義
-#+DATE: 2015-09-23 09:36:57
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:05:59.597412
+#+PROPERTY: ID KR1c0041
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1c0041_WYG_028-1a>¶
 欽定四庫全書¶
 　詩經世本古義卷二十八¶
@@ -128,4 +130,3 @@
 　¶
 　¶
 　詩經世本古義卷二十八¶
-
